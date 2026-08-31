@@ -184,3 +184,42 @@ CodeAlpha_Educational_Performance_Resource_Allocation_Dashboard/
 │
 └── 📁 report/
     └── Project_Report.pdf
+
+🚀 Project Highlights
+📊 Single-page interactive Power BI dashboard
+🎯 KPI-based educational performance monitoring
+📍 District-wise analysis
+🏫 Institution-level comparison
+📅 Year-wise academic performance trend
+👩‍🏫 Faculty resource analysis
+💰 Budget utilization analysis
+🌐 Internet usage analysis
+🎛️ Interactive slicers and filters
+💡 Data-driven educational insights
+🎨 Professional and user-friendly dashboard design
+🎓 Internship Project
+
+Organization: CodeAlpha
+Task: Task 4 – Educational Performance and Resource Allocation
+Domain: Data Analytics / Business Intelligence
+Project Type: Power BI Dashboard
+Tool Used: Microsoft Power BI
+
+👩‍💻 Author
+Manya
+
+B.Tech – Information Technology
+
+Interested in Data Analytics, Business Intelligence, Data Visualization, and Power BI.
+
+📌 Conclusion
+
+The Educational Performance & Resource Allocation Dashboard transforms educational data into an interactive and easy-to-understand analytical solution.
+
+By combining student performance, attendance, dropout rate, teacher resources, budget utilization, internet usage, and district-level analysis, the project demonstrates how Power BI can be used to generate actionable insights and support data-driven resource allocation decisions.
+
+⭐ Project Status
+
+Completed ✅
+
+Developed as part of the CodeAlpha Internship – Task 4.
